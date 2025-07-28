@@ -175,7 +175,7 @@ npm install
 
 ✅ Créditos
 
-Desarrollado por Breyner Pinto y Juan Jose Prada .
+Desarrollado por Breyner Pinto, Juan Jose Prada y Jersson Fuentes Parra .
 
 
 
